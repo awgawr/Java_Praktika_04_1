@@ -13,6 +13,7 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        System.out.println("Введите три целых числа : ");
         int a = scanner.nextInt();
         int b = scanner.nextInt();
         int c = scanner.nextInt();
